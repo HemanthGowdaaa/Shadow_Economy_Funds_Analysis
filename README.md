@@ -1,4 +1,4 @@
-#Shadow Economy Funds Analysis
+# Shadow Economy Funds Analysis
 
   The shadow economy refers to economic activities that occur outside the official financial
 systems, including money laundering, tax evasion, and transactions tied to illegal activities.
@@ -10,7 +10,7 @@ data analysis and visualization techniques, the project aims to provide insights
 and impact of the shadow economy across different industries, countries, and financial
 systems.
 
-##Conclusion:
+## Conclusion:
 
 The Shadow Economy Funds Analysis project will provide significant insights into the global
 movement of illicit funds. By utilizing advanced data analytics and visualization techniques,
