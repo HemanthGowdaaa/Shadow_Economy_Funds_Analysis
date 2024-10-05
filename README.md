@@ -1,8 +1,6 @@
 Shadow Economy Funds Analysis
 
-Introduction:
-
-The shadow economy refers to economic activities that occur outside the official financial
+  The shadow economy refers to economic activities that occur outside the official financial
 systems, including money laundering, tax evasion, and transactions tied to illegal activities.
 The movement of illicit funds—often referred to as black money—poses challenges to global
 economies, leading to financial instability and loss of tax revenue. This project delves into the
