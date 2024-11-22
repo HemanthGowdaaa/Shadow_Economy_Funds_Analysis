@@ -18,3 +18,4 @@ this project aims to enhance the understanding of financial flows within the sha
 The findings can assist policymakers, law enforcement agencies, and financial institutions in
 addressing the risks associated with the illicit economy, while also laying the groundwork for
 future research into global black money trends.
+
